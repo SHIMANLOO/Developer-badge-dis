@@ -18,4 +18,4 @@ async def on_ready():
 async def ping_command(interaction: discord.Interaction):
     await interaction.response.send_message("🏓 Pong!")
 
-bot.run("...")  # 🔐 توکن رباتت رو اینجا بذار
+bot.run("...")  # 🔐 Location of the robot token
